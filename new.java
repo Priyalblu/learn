@@ -13,4 +13,11 @@ class newWork
     int c=a*b;
     System.out.println("The multiplication is: "+c);
   }
+  void secondFunc()
+  {
+    System.out.println("This is the 2nd function and a new branch");
+    int a=10, b=5;
+    int c=a+b;
+    System.out.println("The addition is: "+c);
+  }
 }
