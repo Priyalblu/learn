@@ -5,6 +5,7 @@ class newWork
     System.out.println("New to GitHub!");
     newWork n=new newWork();
     n.newFunc();
+    n.secondFunc();
   }
   void newFunc()
   {
@@ -21,3 +22,4 @@ class newWork
     System.out.println("The addition is: "+c);
   }
 }
+//done with this versoin too
