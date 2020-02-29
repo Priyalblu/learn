@@ -1,8 +1,10 @@
-class new
+class newWork
 {
   public static void main(String args[])
   {
     System.out.println("New to GitHub!");
+    newWork n=new newWork();
+    n.newFunc();
   }
   void newFunc()
   {
