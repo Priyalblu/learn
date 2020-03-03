@@ -6,6 +6,9 @@ class newWork
     newWork n=new newWork();
     n.newFunc();
     n.secondFunc();
+    System.out.println("Calling the remaining functions from another-branch branch, and then deleting that branch after merging");
+    n.remoteFunc();
+    n.NewremoteFunc();
   }
   void newFunc()
   {
