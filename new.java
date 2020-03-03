@@ -21,6 +21,13 @@ class newWork
     int c=a+b;
     System.out.println("The addition is: "+c);
   }
+  void remoteFunc()
+  {
+    System.out.println("This is the function i am creating remotly");
+    int a=10, b=5;
+    int c=a/b;
+    System.out.println("The division is: "+c);
+  }
 }
 //done with this versoin too
 //done with this version
