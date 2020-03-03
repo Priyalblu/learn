@@ -28,6 +28,13 @@ class newWork
     int c=a/b;
     System.out.println("The division is: "+c);
   }
+  void NewremoteFunc()
+  {
+    System.out.println("This is the function i am creating in the remote branch, remotly");
+    int a=10, b=5;
+    int c=a-b;
+    System.out.println("The substraction is: "+c);
+  }
 }
 //done with this versoin too
 //done with this version
